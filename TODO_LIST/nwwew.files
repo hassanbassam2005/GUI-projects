@@ -1,0 +1,8 @@
+CMakeLists.txt
+UI/daily.ui
+UI/mainwindow.ui
+include/daily.h
+include/mainwindow.h
+src/daily.cpp
+src/main.cpp
+src/mainwindow.cpp
