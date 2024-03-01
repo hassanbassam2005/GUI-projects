@@ -1,6 +1,6 @@
 # Qt-Projects
 This repository features a range of C++ projects, including both GUI and CLI applications. Explore diverse programs showcasing C++ fundamentals and advanced GUI development, offering a valuable learning resource for developers.
-# project 1
+# TODO project
 **Todo list** that is built with c++ and Qt framework. It allows users to manage their tasks by adding, editing, and removing items from a list.
 
 # Features
